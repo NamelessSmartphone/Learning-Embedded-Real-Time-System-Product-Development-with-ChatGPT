@@ -74,12 +74,12 @@ for ease of understanding.
  【Overview of ChatGPT Usage in Embedded Real-Time System SW Development】
 -------------------------------------------------------------------------
 
-**[● User]{.underline}**
+**[● User]**
 
 How can ChatGPT be used to enhance efficiency in software development
 for Embedded Real-Time Systems?
 
-**[● ChatGPT]{.underline}**
+**[● ChatGPT]**
 
 In software development for Embedded Real-Time Systems, ChatGPT can be
 utilized to enhance efficiency in the following ways:
