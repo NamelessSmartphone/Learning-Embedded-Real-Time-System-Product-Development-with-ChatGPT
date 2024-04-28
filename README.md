@@ -101,7 +101,7 @@ utilized to enhance efficiency in the following ways:
 3\. Technical Support:
 
 -   Provide quick responses to technical questions or issues encountered
-    > by developers.
+     by developers.
 
 -   Answer questions regarding interfacing with hardware or the usage of
      specific protocols.
@@ -117,31 +117,31 @@ utilized to enhance efficiency in the following ways:
 5\. Test and Debug:
 
 -   Improve test coverage through automatic generation of test cases or
-    > reviewing existing tests.
+     reviewing existing tests.
 
 -   Aid in diagnosing errors and proposing solutions during debugging.
 
 6\. Learning and Information Gathering:
 
 -   Provide developers with information on the latest technologies and
-    > trends.
+     trends.
 
 -   Support learning and adoption of new technologies and tools.
 
 7\. Project Management:
 
 -   Provide support for task assignment, progress tracking, and schedule
-    > management.
+     management.
 
 -   Offer advice and suggest tools for smooth communication within
-    > teams.
+     teams.
 
 ChatGPT streamlines various tasks in Embedded Real-Time System
 development, contributing to increased overall productivity in the
 development process. However, information from ChatGPT should be
 appropriately validated for reliability.\"
 
-[Table of Contents]{.underline}
+[Table of Contents]
 
 0\. Keywords and abbreviations
 
