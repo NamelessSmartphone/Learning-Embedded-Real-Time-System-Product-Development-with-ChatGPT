@@ -89,14 +89,14 @@ utilized to enhance efficiency in the following ways:
 -   Reduce developer workload through code generation or completion.
 
 -   Offer advice on creating specific code snippets, detecting errors,
-    > and refactoring code.
+     and refactoring code.
 
 2\. Documentation:
 
 -   Support document creation required for software development.
 
 -   Automatically generate specifications, design documents, test plans,
-    > etc., based on developer explanations.
+     etc., based on developer explanations.
 
 3\. Technical Support:
 
@@ -104,15 +104,15 @@ utilized to enhance efficiency in the following ways:
     > by developers.
 
 -   Answer questions regarding interfacing with hardware or the usage of
-    > specific protocols.
+     specific protocols.
 
 4\. Code Review:
 
 -   Analyze provided code for optimization suggestions and detection of
-    > potential bugs.
+     potential bugs.
 
 -   Offer advice on adhering to coding styles and security best
-    > practices.
+     practices.
 
 5\. Test and Debug:
 
